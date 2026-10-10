@@ -1,0 +1,6 @@
+{
+  "name": "EGO EDIT",
+  "description": "Professional video editing application with multi-track timeline, color grading, motion graphics, audio studio, AI editing, and 26-module feature registry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
